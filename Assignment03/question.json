@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "domain": "DSA",
+    "question": "Given an array of integers, find the maximum subarray sum using Kadane's Algorithm.",
+    "difficulty": "Medium",
+    "topic": "Arrays"
+  },
+  {
+    "id": 2,
+    "domain": "DSA",
+    "question": "Implement a function to check whether a given linked list has a cycle.",
+    "difficulty": "Medium",
+    "topic": "Linked List"
+  },
+  {
+    "id": 3,
+    "domain": "DSA",
+    "question": "Write a program to reverse a binary tree.",
+    "difficulty": "Medium",
+    "topic": "Binary Tree"
+  },
+  {
+    "id": 4,
+    "domain": "DSA",
+    "question": "Find the nth Fibonacci number using Dynamic Programming.",
+    "difficulty": "Easy",
+    "topic": "Dynamic Programming"
+  },
+  {
+    "id": 5,
+    "domain": "DSA",
+    "question": "Implement a stack using two queues.",
+    "difficulty": "Hard",
+    "topic": "Stacks and Queues"
+  },
+  {
+    "id": 6,
+    "domain": "SQL",
+    "question": "Write a SQL query to find employees who earn more than the average salary.",
+    "difficulty": "Medium",
+    "topic": "Aggregate Functions"
+  },
+  {
+    "id": 7,
+    "domain": "SQL",
+    "question": "Write a query to fetch the second highest salary from the Employee table.",
+    "difficulty": "Medium",
+    "topic": "Subqueries"
+  },
+  {
+    "id": 8,
+    "domain": "SQL",
+    "question": "Find the total number of customers who placed more than 3 orders in the last month.",
+    "difficulty": "Hard",
+    "topic": "Joins and Group By"
+  },
+  {
+    "id": 9,
+    "domain": "SQL",
+    "question": "Display the department name and number of employees in each department.",
+    "difficulty": "Easy",
+    "topic": "GROUP BY"
+  },
+  {
+    "id": 10,
+    "domain": "SQL",
+    "question": "Write a query to find duplicate email addresses in a Users table.",
+    "difficulty": "Easy",
+    "topic": "Aggregation and HAVING"
+  },
+  {
+    "id": 11,
+    "domain": "Python",
+    "question": "Write a Python function to check if a string is a palindrome.",
+    "difficulty": "Easy",
+    "topic": "Strings"
+  },
+  {
+    "id": 12,
+    "domain": "Python",
+    "question": "Write a Python program to find all unique elements in a list without using set().",
+    "difficulty": "Medium",
+    "topic": "Lists"
+  },
+  {
+    "id": 13,
+    "domain": "Python",
+    "question": "Explain and demonstrate the difference between shallow copy and deep copy in Python.",
+    "difficulty": "Medium",
+    "topic": "Objects and Memory"
+  },
+  {
+    "id": 14,
+    "domain": "Python",
+    "question": "Write a Python program to implement a simple class named BankAccount with deposit and withdraw methods.",
+    "difficulty": "Medium",
+    "topic": "OOP"
+  },
+  {
+    "id": 15,
+    "domain": "Python",
+    "question": "Write a Python one-liner to flatten a list of lists.",
+    "difficulty": "Hard",
+    "topic": "List Comprehension"
+  }
+]
